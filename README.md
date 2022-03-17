@@ -4,7 +4,7 @@ to collect health information of inpatients, improve prognosis, modify treatment
 admission standards in order to manage COVID-19 patients more efficiently. This database will be used
 by both physicians and hospital administrative staff.
 
-# Mission Objectives
+## Mission Objectives
 1. Provide patients’ information to physicians to give appropriate treatments and further reduce the COVID-19 death rate.
 2. Allow medical care providers to record and compare different treatment results, which helps to further improve treatment strategies.
 3. Ensure that physicians can identify the severity of the disease through clinical symptoms and examinations and further adjust admission standards to better control the number of COVID-19 inpatients. 
